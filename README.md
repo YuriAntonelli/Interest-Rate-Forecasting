@@ -1,4 +1,4 @@
-# Short-Rate-Forecasting
+# Interest-Rate-Forecasting
 
 This repository is dedicated to interest rate forecasting, utilizing models from mathematical finance (Vasicek and CIR) and Machine Learning (Bagging and LSTM). The primary goal is to assess the forecasting performance relative to a Random Walk benchmark across different time horizons: 1 day, 1 week, 1 month, and 3 months.
 
